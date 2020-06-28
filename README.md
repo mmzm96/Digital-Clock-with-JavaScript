@@ -1,2 +1,2 @@
-# Digital-Clock-with-JavaScript
+# Digital-Clock-By-JavaScript
 JavaScript Plug in 
